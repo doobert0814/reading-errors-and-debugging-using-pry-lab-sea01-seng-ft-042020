@@ -1,10 +1,10 @@
 require 'pry'
 
 def snake_it_up(string)
-  if string == string
+  if string == 
     p 10 + "s" + "string"
   else
-    string
+   puts string
   end
 end
 binding.pry
