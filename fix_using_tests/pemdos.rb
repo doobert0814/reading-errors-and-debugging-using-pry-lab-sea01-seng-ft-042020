@@ -2,7 +2,7 @@ require 'pry'
 
 def snake_it_up(string)
   if string == string
-    p "10" + "s" + "string"
+    p 10.to_s + "s" + "string"
   else
     string
   end
